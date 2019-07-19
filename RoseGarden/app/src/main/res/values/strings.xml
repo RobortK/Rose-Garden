@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Rose Garden</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rose_login">Rose-Hulman Login</string>
+</resources>
